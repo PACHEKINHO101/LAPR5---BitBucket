@@ -16,4 +16,4 @@
 | Rating | To rank a post/comment |
 | Relation | Conection of two Players |
 | Tag | Keyword (Relevant) of the User/Relation/Post |
-| User | Who use the system |
+| User | Who use the system | 
